@@ -36,7 +36,7 @@ A simple list of every unique tag that has been added to one of your products (e
 
 Note that the ​API link​ is only for the first page of orders (for this challenge you can ignore any additional pages). Here are a couple simple libraries that you can use to fetch the data (these are optional, you can pick one or use any other alternative).
 
-iOS: https://github.com/Alamofire/Alamofire/​ or just use URLSession
+iOS: ["https://github.com/Alamofire/Alamofire/​"](https://github.com/Alamofire/Alamofire/​) or just use URLSession
 
 ### Extra
 
